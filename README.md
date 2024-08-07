@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @huaichen446
+- 👋 Hi, I’m @huaichen
 - 👀 I’m interested in python,c#  
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
