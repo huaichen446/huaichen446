@@ -1,4 +1,6 @@
-##   <center>Hi, there 👋</center>
+##   <div align="center">
+    Hi, there 👋
+</div>
 
 
 <!---
