@@ -10,7 +10,7 @@
     </div>
     <img height="200" src="https://i.imgflip.com/65efzo.gif" />
   </div>
-</div>
+
 
 <br clear="both">
 <div align="center">
