@@ -36,7 +36,9 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation](https://raw.githubusercontent.com/huaichen446/huaichen446/output/snake.svg" alt="Snake animation)" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/huaichen446/huaichen446/output/snake.svg" alt="Snake animation">
+</div>
 
 ###
 
