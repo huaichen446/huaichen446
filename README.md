@@ -7,7 +7,7 @@
      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=huaichen446&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
    </div>
    
-   <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+   <img align="center" height="150" src="https://i.imgflip.com/65efzo.gif"  />
    
    <div style="display: flex; justify-content: center; margin-left: 25%;">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
