@@ -2,13 +2,15 @@
 
 ###
 
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <div style="margin-bottom: 15px;">
+  <div style="position: absolute; left: 50%; transform: translateX(-50%); top: 45%;">
+    <div style="text-align: center; margin-bottom: 15px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" style="margin: 0 5px;" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="margin: 0 5px;" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" style="margin: 0 5px;" />
     </div>
-    <img height="200" src="https://i.imgflip.com/65efzo.gif" />
+    <div style="text-align: center;">
+      <img height="200" src="https://i.imgflip.com/65efzo.gif" />
+    </div>
   </div>
 
 
