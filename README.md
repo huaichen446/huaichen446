@@ -19,7 +19,6 @@
 <div align="right">
   <img height="150" src="https://i.imgflip.com/65efzo.gif" />
 </div>
-###
 <br clear="both">
 <div align="center">
   <img src="https://raw.githubusercontent.com/huaichen446/huaichen446/output/snake.svg" alt="Snake animation">
